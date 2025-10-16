@@ -4,13 +4,13 @@
 
 `smooth_gradient` is a package that allows you to create linear gradients that use a specific curve.
 
-|                                                                                                                          Status                                                                                                                           |               Comments               |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------: |
-| [![flutter_smooth_gradient - Tests (stable)](https://github.com/n-bernat/flutter_smooth_gradient/actions/workflows/flutter_tests_stable.yaml/badge.svg)](https://github.com/n-bernat/flutter_smooth_gradient/actions/workflows/flutter_tests_stable.yaml) |    Current stable Flutter version    |
-|    [![flutter_smooth_gradient - Tests (beta)](https://github.com/n-bernat/flutter_smooth_gradient/actions/workflows/flutter_tests_beta.yaml/badge.svg)](https://github.com/n-bernat/flutter_smooth_gradient/actions/workflows/flutter_tests_beta.yaml)    |     Current beta Flutter version     |
-|    [![flutter_smooth_gradient - Tests (3.24.0)](https://github.com/n-bernat/flutter_smooth_gradient/actions/workflows/flutter_tests_min.yaml/badge.svg)](https://github.com/n-bernat/flutter_smooth_gradient/actions/workflows/flutter_tests_min.yaml)    | The oldest supported Flutter version |
+|                                                                                                                               Status                                                                                                                                |               Comments               |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------: |
+| [![flutter_smooth_gradient - Tests (stable)](https://github.com/nikodembernat/flutter_smooth_gradient/actions/workflows/flutter_tests_stable.yaml/badge.svg)](https://github.com/nikodembernat/flutter_smooth_gradient/actions/workflows/flutter_tests_stable.yaml) |    Current stable Flutter version    |
+|    [![flutter_smooth_gradient - Tests (beta)](https://github.com/nikodembernat/flutter_smooth_gradient/actions/workflows/flutter_tests_beta.yaml/badge.svg)](https://github.com/nikodembernat/flutter_smooth_gradient/actions/workflows/flutter_tests_beta.yaml)    |     Current beta Flutter version     |
+|    [![flutter_smooth_gradient - Tests (3.24.0)](https://github.com/nikodembernat/flutter_smooth_gradient/actions/workflows/flutter_tests_min.yaml/badge.svg)](https://github.com/nikodembernat/flutter_smooth_gradient/actions/workflows/flutter_tests_min.yaml)    | The oldest supported Flutter version |
 
-![A comparison of different gradient curves.](https://github.com/n-bernat/flutter_smooth_gradient/blob/master/screenshots/screenshot.png?raw=true)
+![A comparison of different gradient curves.](https://github.com/nikodembernat/flutter_smooth_gradient/blob/master/screenshots/screenshot.png?raw=true)
 
 ## Getting started
 
@@ -50,7 +50,7 @@ return DecoratedBox(
 ## Additional information
 
 - This package requires at least Flutter 3.24 to work.
-- If there are any issues feel free to go to [GitHub Issues](https://github.com/n-bernat/flutter_smooth_gradient/issues) and report a bug.
+- If there are any issues feel free to go to [GitHub Issues](https://github.com/nikodembernat/flutter_smooth_gradient/issues) and report a bug.
 - Inspired by [SmoothGradient](https://github.com/raymondjavaxx/SmoothGradient) for SwiftUI and [X (Twitter) post](https://x.com/SebJVidal/status/1841876770661806524).
 
 ## Maintainers

@@ -1,3 +1,9 @@
+## 0.2.0
+
+- **Breaking**: Changed default curve to `.easeIn`.
+- Added `SmoothRadialGradient`.
+- Updated GitHub links.
+
 ## 0.1.0
 
 - Update README.
