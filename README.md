@@ -37,8 +37,8 @@ return DecoratedBox(
     gradient: SmoothGradient(
       from: Colors.black,
       to: Colors.white,
-      // Defaults to `Curves.easeInOut`.
-      curve: Curves.easeIn,
+      // Defaults to `Curves.easeIn`.
+      curve: Curves.easeInOut,
     ),
   ),
   child: const SizedBox.square(

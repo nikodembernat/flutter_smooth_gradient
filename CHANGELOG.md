@@ -1,3 +1,7 @@
+## 0.2.0+1
+
+- Fixed `README.md`.
+
 ## 0.2.0
 
 - **Breaking**: Changed default curve to `.easeIn`.
