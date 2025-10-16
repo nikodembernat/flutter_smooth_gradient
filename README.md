@@ -2,7 +2,7 @@
 
 [![Package](https://img.shields.io/pub/v/smooth_gradient.svg)](https://pub.dev/packages/smooth_gradient) [![Publisher](https://img.shields.io/pub/publisher/smooth_gradient.svg)](https://pub.dev/packages/smooth_gradient/publisher) [![MIT License](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT) [![LeanCode Style](https://img.shields.io/badge/style-leancode__lint-black)](https://pub.dartlang.org/packages/leancode_lint)
 
-`smooth_gradient` is a package that allows you to create linear gradients that use a specific curve.
+`smooth_gradient` is a package that allows you to create gradients that use a specific curve.
 
 |                                                                                                                               Status                                                                                                                                |               Comments               |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------: |
