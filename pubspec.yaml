@@ -1,6 +1,6 @@
 name: smooth_gradient
 description: "A package that allows you to create gradients that use a specific curve."
-version: 0.1.0
+version: 0.2.0
 homepage: "https://nikodembernat.com"
 repository: "https://github.com/nikodembernat/flutter_smooth_gradient"
 issue_tracker: "https://github.com/nikodembernat/flutter_smooth_gradient/issues"
